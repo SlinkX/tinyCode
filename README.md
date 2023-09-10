@@ -17,13 +17,6 @@
 * 轮播图
 <br/>等...
 
-### Setup
-
-```
-git@github.com:RebeccaHanjw/weapp-wechat-zhihu.git
-```
-下载安装Wechat DEV Tools, 并导入项目
-
 ### 演示
 
 首页下拉刷新等
@@ -42,8 +35,6 @@ git@github.com:RebeccaHanjw/weapp-wechat-zhihu.git
 
 ![](images/navigation.gif)
 
-
-##### Demo 用于学习交流, 转载请注明出处
 
 
 
